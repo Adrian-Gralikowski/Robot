@@ -1,4 +1,4 @@
-![20250115_183457](https://github.com/user-attachments/assets/c851c38c-6a74-4579-ab51-8784416bc3d5)# Zdalnie Sterowany Robot z Aplikacją Mobilną
+# Zdalnie Sterowany Robot z Aplikacją Mobilną
 
 Celem projektu było stworzenie zdalnie sterowanego robota, którym można kierować za pomocą dedykowanej aplikacji na smartfona. Projekt łączy elementy programowania, elektroniki oraz modelowania 3D, a jego bazą jest platforma Arduino.
 
