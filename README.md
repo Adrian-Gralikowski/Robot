@@ -1,4 +1,4 @@
-# Zdalnie Sterowany Robot z Aplikacją Mobilną
+![20250115_183457](https://github.com/user-attachments/assets/c851c38c-6a74-4579-ab51-8784416bc3d5)# Zdalnie Sterowany Robot z Aplikacją Mobilną
 
 Celem projektu było stworzenie zdalnie sterowanego robota, którym można kierować za pomocą dedykowanej aplikacji na smartfona. Projekt łączy elementy programowania, elektroniki oraz modelowania 3D, a jego bazą jest platforma Arduino.
 
@@ -17,15 +17,16 @@ Celem projektu było stworzenie zdalnie sterowanego robota, którym można kiero
 - Elementy konstrukcyjne robota zaprojektowano w programie Fusion 360 i wydrukowano na drukarce 3D. Dzięki temu całość jest stabilna i w pełni dopasowana do zamontowanych elementów. 
 
 ## Filmy prezentujące działanie robota:
-https://github.com/user-attachments/assets/f71ce99e-09ef-4e89-b069-337cfde55c1f
+https://github.com/user-attachments/assets/6a621dc8-1b9e-406d-8769-4da8ed716a41
 
-https://github.com/user-attachments/assets/94e131ac-d0af-486d-9d18-c80d2401f0f9
+https://github.com/user-attachments/assets/9af72b4f-9488-4689-8de0-a1e8b8dfded4
 
 ## Screenshot aplikacji do sterowania robotem 
-![Screenshot_20250120-213441 2](https://github.com/user-attachments/assets/0bac439e-ceda-4192-936f-5988357c9360)
+![Screenshot_20250120-213441 2](https://github.com/user-attachments/assets/0abdb110-decc-4100-80c5-290669b6476a)
 
 ## Zdjęcia
-![20250115_185014](https://github.com/user-attachments/assets/c62b41fb-1ad3-45e4-be89-d09f25366be4)
-![20250115_183457](https://github.com/user-attachments/assets/7291dd95-d60b-4f03-92a6-2ed256bb5351)
-![20250115_184826](https://github.com/user-attachments/assets/da22069b-7edf-4505-b8fc-5b81ea8cbe63)
-![20250115_185135](https://github.com/user-attachments/assets/32cd0e2c-589d-47f4-87a1-a7c33dc261cf)
+![20250115_185014](https://github.com/user-attachments/assets/9119d1eb-2e16-4215-bdea-50c687c6bd70)
+![20250115_183457](https://github.com/user-attachments/assets/5943f9f0-2165-4656-b051-857c94da4200)
+![20250115_184826](https://github.com/user-attachments/assets/2731980f-8d70-4f0b-9f49-f3ff701d1d41)
+![20250115_184951](https://github.com/user-attachments/assets/dc9a7779-53c1-4b66-bbc6-b1a700539012)
+![20250115_185135](https://github.com/user-attachments/assets/ce2004ee-7f6c-4416-bb30-9bc10bd9292b)
